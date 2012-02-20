@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'jQuery 1_7 API Doc' target in the 'jQuery 1_7 API Doc' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
